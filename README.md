@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository documents Active Directory user management concepts used in IT Support, Service Desk, Desktop Support, and Junior Systems Administrator roles.
+This repository documents Active Directory user management concepts commonly used in IT Support, Service Desk, Desktop Support, Technical Support, and Junior Systems Administrator roles.
 
-The lab focuses on common support tasks such as creating users, resetting passwords, troubleshooting account lockouts, understanding security groups, documenting OU structure, and following proper user onboarding and offboarding procedures.
+The goal of this lab is to demonstrate practical understanding of user account creation, password resets, account lockouts, security groups, organizational units, permissions concepts, onboarding, offboarding, and clear help desk documentation.
 
 ## Skills Demonstrated
 
@@ -14,6 +14,7 @@ The lab focuses on common support tasks such as creating users, resetting passwo
 - Account lockout troubleshooting
 - Security group concepts
 - Organizational Unit documentation
+- Basic permissions concepts
 - User onboarding and offboarding workflows
 - Access request documentation
 - Help desk ticket writing
@@ -25,18 +26,19 @@ The lab focuses on common support tasks such as creating users, resetting passwo
 | `docs/` | Active Directory notes and process documentation |
 | `checklists/` | Repeatable support checklists |
 | `tickets/` | Realistic support ticket examples |
-| `diagrams/` | Sample AD structure documentation |
+| `diagrams/` | Sample Active Directory structure documentation |
 
 ## Example Support Scenarios
 
+- New employee account creation
 - User forgot password
 - User account locked out
-- New employee needs an account
-- User needs access to a shared folder or group
+- User needs access to a group or shared resource
 - User leaves the organization
 - Account disabled by mistake
-- Group membership needs review
+- Security group membership review
+- Basic permissions troubleshooting
 
 ## Disclaimer
 
-This is a learning and documentation lab. No real usernames, passwords, company information, or private data are included.
+This is a learning and documentation lab. It does not contain real usernames, passwords, company data, domain information, credentials, or private user information.
